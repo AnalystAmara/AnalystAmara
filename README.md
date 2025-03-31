@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnalystAmara
 - 👀 I’m interested in transforming raw data into meaningful insights.
-- 🌱 I’m currently developing my skills on advanced Excel, SQL, Power Bi, and Python.   
+- 🌱 I’m currently developing my skills on advanced Excel, SQL, and Power Bi.   
 - 💞️ I’m looking to collaborate on data cleaning, visualization, and analysis projects.
 - 📫 You can reach me via Email on amarachimrn@gmail.com or through WhatsApp on +2348061159351.
 - 😄 Pronouns: She/Her.
